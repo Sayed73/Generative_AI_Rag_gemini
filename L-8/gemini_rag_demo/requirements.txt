@@ -10,3 +10,4 @@ langchainhub
 pypdf
 rapidocr-onnxruntime
 chromadb
+pysqlite3-binary
