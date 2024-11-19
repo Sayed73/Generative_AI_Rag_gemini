@@ -18,7 +18,7 @@ load_dotenv()
 
 st.title("RAG Application built on Gemini Model")
 
-loader = PyPDFLoader("yolov9_paper.pdf")
+loader = PyPDFLoader("Abbas_case.pdf")
 data = loader.load()
 
 text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000)
