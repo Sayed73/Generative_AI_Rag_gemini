@@ -9,4 +9,4 @@ langchain_chroma
 langchainhub
 pypdf
 rapidocr-onnxruntime
-chromadb==0.3.29
+chromadb
