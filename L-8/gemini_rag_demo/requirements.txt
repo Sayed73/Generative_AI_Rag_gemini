@@ -5,7 +5,7 @@ python-dotenv
 streamlit
 langchain_experimental
 sentence-transformers
-langchain-chromadb==3.35.0
+langchain-chromadb
 langchainhub
 pypdf
 rapidocr-onnxruntime
